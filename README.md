@@ -13,8 +13,8 @@ Welcome to Firebase Chat , this app is a chat application where you and your fir
 
 1.  Clone the repository:
     ```bash
-    git clone 
-    cd firebase-chat
+    git clone https://github.com/ps8847/react-firebase-chat.git
+    cd react-firebase-chat
     ```
 2.  Install dependencies:
     ```bash
